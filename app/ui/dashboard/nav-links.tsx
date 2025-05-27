@@ -1,6 +1,5 @@
 'use client' /* since userPathname is a react hook --> turn this into client component using use client */
 
-
 import {
   UserGroupIcon,
   HomeIcon,
